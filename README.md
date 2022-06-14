@@ -1,6 +1,6 @@
 # jaci-theme-vscode
 
-<h3 align="center">
+<!-- <h3 align="center">
   <img src="./images/bitmap.svg" width=100/>
 <p align="center">jaci for <a href="https://insomnia.rest/">vscode</a></p>
 <h/3>
@@ -11,7 +11,7 @@
     <a href="https://github.com/fernandobortotti/jaci-theme-insomnia/contributors"><img src="https://img.shields.io/github/contributors/fernandobortotti/jaci-theme-insomnia?colorA=192523&colorB=7f51fc&style=for-the-badge"></a>
   </a>
 
-</p>
+</p> -->
 
 ## 🖖 Tks
 
