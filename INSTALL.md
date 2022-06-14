@@ -5,7 +5,6 @@
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
     git clone https://github.com/fernandobortotti/jaci-theme-vscode.git ~/.vscode/extensions/theme-jaci
-    cd ~/.vscode/extensions/theme-jaci
 
 #### Activating theme
 
