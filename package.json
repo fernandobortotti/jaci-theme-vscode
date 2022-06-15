@@ -4,23 +4,17 @@
   "displayName": "Jaci Official",
   "homepage": "https://github.com/fernandobortotti",
   "description": "Official Jaci Theme. A dark theme for many editors, shells, and more.",
-  "publisher": "jaci-theme",
+  "publisher": "FernandoBortotti",
   "license": "MIT",
   "maintainers": [
     "Fernando Bortotti <fernando_bortotti@hotmail.com>"
-  ],
-  "contributors": [
-    "Vini"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/jaci/visual-studio-code.git"
   },
-  "bugs": {
-    "url": "https://github.com/jaci/visual-studio-code/issues"
-  },
   "engines": {
-    "vscode": "^1.13.0"
+    "vscode": "^1.14.0"
   },
   "categories": [
     "Themes"
@@ -31,7 +25,7 @@
     "theme",
     "color-theme"
   ],
-  "icon": "icon.png",
+  "icon": "images/jaci.png",
   "galleryBanner": {
     "color": "#ff0000",
     "theme": "dark"

@@ -1,7 +1,7 @@
 # jaci-theme-vscode
 
 <h3 align="center">
-  <img src="./images/bitmap.svg" width=100/>
+  <img src="./images/bitmap.png" width=100/>
 <p align="center">jaci for <a href="https://vscode.rest/">vscode</a></p>
 <h/3>
 <p align="center">
