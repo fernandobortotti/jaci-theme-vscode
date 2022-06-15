@@ -1,8 +1,8 @@
 {
   "$schema": "vscode://schemas/color-theme",
   "name": "jaci",
-  "author": "Zeno Rocha",
-  "maintainers": ["Derek P Sifford <dereksifford@gmail.com>"],
+  "author": "Fernando Bortotti",
+  "maintainers": ["Fernando Bortotti <fernando_bortotti@hotmail.com>"],
   "semanticClass": "theme.jaci",
   "semanticHighlighting": true,
   "jaci": {
