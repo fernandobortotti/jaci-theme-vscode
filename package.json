@@ -1,6 +1,6 @@
 {
   "name": "theme-jaci",
-  "version": "2.24.3",
+  "version": "2.24.4",
   "displayName": "Jaci Official",
   "homepage": "https://github.com/fernandobortotti",
   "description": "Official Jaci Theme. A dark theme for many editors, shells, and more.",
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/jaci/visual-studio-code.git"
+    "url": "https://github.com/fernandobortotti/jaci-theme-vscode.git"
   },
   "engines": {
     "vscode": "^1.14.0"
